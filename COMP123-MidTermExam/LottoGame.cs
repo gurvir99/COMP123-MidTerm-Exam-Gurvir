@@ -8,9 +8,10 @@ namespace COMP123_MidTermExam
 {
     //STUDENT NAME: Gurvir Singh
     //STUDENT ID: #301108852
-    //COURSE NAME: Programming 2
-    //COURSE CODE: SEC.001
+    //COURSE NAME: Programming 2 SEC.001
+    //COURSE CODE: COMP-123
     //MIDTERM TEST
+    //DATE LAST MODIFIED: 2020-07-17
     /**
      * <summary>
      * This abstract class is a blueprint for all Lotto Games
